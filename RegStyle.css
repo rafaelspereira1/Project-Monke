@@ -1,0 +1,38 @@
+body{font-family: tahoma,arial,sans-serif ; margin: 0; padding: 0; 
+}
+.pagina{width: 1024px;; margin: 40px auto;}
+
+
+.head{background-color: lightblue; 
+    position: absolute; top: 0; width: 1024px;}
+
+
+
+.corp{ 
+    overflow: auto; margin: 250px 0 0 250px; 
+    width: 50%; height: 500px;}   
+    
+.form1{width: 210px; height: 260;
+    margin: 75px 0px 0px 160px; 
+        background-color: lightblue;
+       overflow: 100%;
+       border-radius: 10px 10px 10px 10px;
+       -webkit-border-radius: 10px 10px 10px 10px;
+       -moz-border-radius: 10px 10px 10px 10px;
+    border: 1px solid black; outline: none;}    
+
+
+fieldset input {height: 25px;}
+.Name:focus , .Email:focus, .Use:focus, #Pass:focus {background-color: lightyellow;}
+fieldset legend{margin: 15px 0 15px 0;} 
+.sexc{margin: 5px 0 5px 0;}
+
+footer{ background: #0b171f;
+    padding: 25px;
+    font-size: 12px;
+    color: #6f8597;
+    letter-spacing: 5px;
+    text-align: center;
+    position:relative;
+    bottom:0;
+    width:1024px;}
